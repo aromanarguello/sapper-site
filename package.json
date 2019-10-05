@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "site",
+  "description": "Alejandro Roman's personal site",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
